@@ -1,0 +1,5 @@
+django
+djangorestframework
+djangorestframework_simplejwt
+dj-rest-auth[with_social]
+python-dotenv
